@@ -1,0 +1,415 @@
+
+
+Wed May 12 2021 15:47:24 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 15:47:01 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":400,"status":false,"message":"User not found."}
+
+
+Wed May 12 2021 15:31:14 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":200,"status":true,"message":"Login successfully"}
+
+
+Wed May 12 2021 15:30:46 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 15:30:08 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:28:49 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:25:08 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:24:10 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:23:08 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:23:05 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 15:22:20 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:22:02 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:19:42 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:19:31 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:19:28 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 15:17:21 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 15:07:27 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 15:07:11 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 15:05:45 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 15:05:43 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 15:05:25 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 14:59:28 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 14:58:49 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 14:56:26 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 14:51:53 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 14:51:49 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 14:36:57 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 13:24:17 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":200,"status":true,"message":"Login successfully"}
+
+
+Wed May 12 2021 13:22:20 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":200,"status":true,"message":"Login successfully"}
+
+
+Wed May 12 2021 13:21:55 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":200,"status":true,"message":"Login successfully"}
+
+
+Wed May 12 2021 13:21:21 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 13:20:05 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 13:19:42 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 13:19:23 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 13:18:41 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 13:18:36 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 13:18:03 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"User First name is required"}
+
+
+Wed May 12 2021 13:17:04 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"User First name is required"}
+
+
+Wed May 12 2021 13:16:40 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 12:45:02 GMT+0530 (India Standard Time)
+/api/admin/add
+{"code":401,"status":false,"message":"Unauthorized access "}
+
+
+Wed May 12 2021 12:31:22 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":200,"status":true,"message":"Login successfully"}
+
+
+Wed May 12 2021 11:55:48 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":200,"status":true,"message":"Login successfully"}
+
+
+Wed May 12 2021 11:50:18 GMT+0530 (India Standard Time)
+/api/user/signIn
+{"code":400,"status":false,"message":"Register via invalid."}
+
+
+Wed May 12 2021 11:39:19 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 11:39:12 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 11:39:04 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 11:17:54 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":200,"status":true,"message":"Register Successfully."}
+
+
+Wed May 12 2021 11:17:46 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 11:17:25 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 11:15:28 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 11:13:46 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 11:13:27 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 11:09:31 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 11:09:22 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 11:08:28 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 11:07:46 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 11:01:56 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 11:01:21 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"\"role_id\" is not allowed"}
+
+
+Wed May 12 2021 10:56:29 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"\"role_id\" is not allowed"}
+
+
+Wed May 12 2021 10:56:19 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"\"role_id\" is not allowed"}
+
+
+Wed May 12 2021 10:51:44 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"\"_role_id\" is not allowed"}
+
+
+Wed May 12 2021 10:51:31 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"\"user_role_id\" is not allowed"}
+
+
+Wed May 12 2021 10:51:23 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"\"user_role_id\" is not allowed"}
+
+
+Wed May 12 2021 10:47:44 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:46:58 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:45:05 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:41:21 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:40:38 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:40:30 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 10:39:50 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:39:42 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 10:39:26 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:39:14 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 10:36:05 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Wed May 12 2021 10:35:39 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 10:34:54 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Wed May 12 2021 10:24:42 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Tue May 11 2021 19:56:21 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Tue May 11 2021 19:54:09 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Email already exist."}
+
+
+Tue May 11 2021 19:53:23 GMT+0530 (India Standard Time)
+/api/user/signUp
+{"code":400,"status":false,"message":"Internal server error."}
+
+
+Tue May 11 2021 19:51:08 GMT+0530 (India Standard Time)
+/api/user/add
+{"code":401,"status":false,"message":"Unauthorized access "}
+
+
+Tue May 11 2021 19:51:05 GMT+0530 (India Standard Time)
+/api/user/add
+{"code":401,"status":false,"message":"Unauthorized access "}
+
+
+Tue May 11 2021 19:13:13 GMT+0530 (India Standard Time)
+/api/user/add
+{"code":401,"status":false,"message":"Unauthorized access "}
